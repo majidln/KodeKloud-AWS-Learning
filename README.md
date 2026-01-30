@@ -7,6 +7,7 @@ This repository contains daily exercises and tutorials for learning AWS services
 - [Day 01 - EC2 Key Pair Creation](./day-01/README.md)
 - [Day 02 - Security Group Setup](./day-02/README.md)
 - [Day 03 - Subnet Creation](./day-03/README.md)
+- [Day 04 - S3 Bucket Versioning](./day-04/README.md)
 
 ## Prerequisites
 
