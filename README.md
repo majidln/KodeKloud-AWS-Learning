@@ -10,6 +10,7 @@ This repository contains daily exercises and tutorials for learning AWS services
 - [Day 04 - S3 Bucket Versioning](./day-04/README.md)
 - [Day 05 - EC2 Create Volume](./day-05/README.md)
 - [Day 06 - EC2 Instance Creation](./day-06/README.md)
+- [Day 07 - EC2 Instance Management: Stop, Modify Type, and Start](./day-07/README.md)
 
 ## Prerequisites
 
