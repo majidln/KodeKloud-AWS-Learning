@@ -12,6 +12,7 @@ This repository contains daily exercises and tutorials for learning AWS services
 - [Day 06 - EC2 Instance Creation](./day-06/README.md)
 - [Day 07 - EC2 Instance Management: Stop, Modify Type, and Start](./day-07/README.md)
 - [Day 08 - EC2 Instance Stop Protection](./day-08/README.md)
+- [Day 09 - EC2 Instance Termination Protection](./day-09/README.md)
 
 ## Prerequisites
 
