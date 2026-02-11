@@ -17,6 +17,7 @@ This repository contains daily exercises and tutorials for learning AWS services
 - [Day 11 - Attach Existing Network Interface (ENI) to EC2 Instance](./day-11/README.md)
 - [Day 12 - Attach EBS Volume to EC2 Instance](./day-12/README.md)
 - [Day 13 - Creating an AMI from an EC2 Instance](./day-13/README.md)
+- [Day 14 - Stopping and Terminating an EC2 Instance](./day-14/README.md)
 
 ## Prerequisites
 
