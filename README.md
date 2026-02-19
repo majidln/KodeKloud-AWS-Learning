@@ -1,6 +1,20 @@
 # KodeKloud AWS Learning
 
-This repository contains daily exercises and tutorials for learning AWS services using the AWS CLI.
+Hands-on AWS exercises using the **AWS CLI**. Each day focuses on a specific service or task, with step-by-step instructions and command explanations.
+
+This repo follows the **AWS track** of [KodeKloud's 100 Days of Cloud](https://kodekloud.com/100-days-of-cloud) challenge—a free, hands-on program with 50 days of AWS tasks (plus 50 days of Azure). You do one real-world task per day, building skills in compute, storage, networking, IAM, and more. Completing the challenge earns you a cloud portfolio and a KodeKloud Verified Badge.
+
+`aws` `aws-cli` `kodekloud` `100-days-of-cloud` `ec2` `s3` `iam` `vpc` `ebs` `learning`
+
+## AWS services used
+
+| Service | What you use it for |
+|--------|----------------------|
+| **Amazon EC2** | Key pairs, instances, AMIs, instance lifecycle (start, stop, terminate), stop/termination protection, instance type changes |
+| **Amazon VPC** | Subnets, security groups, Elastic IPs, network interfaces (ENI) |
+| **Amazon S3** | Object storage, bucket versioning |
+| **Amazon EBS** | Block storage volumes, attach/detach to EC2 instances |
+| **AWS IAM** | Users and groups, access management |
 
 ## Days
 
@@ -20,9 +34,3 @@ This repository contains daily exercises and tutorials for learning AWS services
 - [Day 14 - Stopping and Terminating an EC2 Instance](./day-14/README.md)
 - [Day 16 - Creating an IAM User](./day-16/README.md)
 - [Day 17 - Creating an IAM Group](./day-17/README.md)
-
-## Prerequisites
-
-- AWS CLI installed and configured
-- Appropriate IAM permissions for the operations you'll be performing
-- An active AWS account
