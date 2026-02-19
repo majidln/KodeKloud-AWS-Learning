@@ -4,8 +4,6 @@ Hands-on AWS exercises using the **AWS CLI**. Each day focuses on a specific ser
 
 This repo follows the **AWS track** of [KodeKloud's 100 Days of Cloud](https://kodekloud.com/100-days-of-cloud) challenge—a free, hands-on program with 50 days of AWS tasks (plus 50 days of Azure). You do one real-world task per day, building skills in compute, storage, networking, IAM, and more. Completing the challenge earns you a cloud portfolio and a KodeKloud Verified Badge.
 
-`aws` `aws-cli` `kodekloud` `100-days-of-cloud` `ec2` `s3` `iam` `vpc` `ebs` `learning`
-
 ## AWS services used
 
 | Service | What you use it for |
