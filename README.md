@@ -18,6 +18,8 @@ This repository contains daily exercises and tutorials for learning AWS services
 - [Day 12 - Attach EBS Volume to EC2 Instance](./day-12/README.md)
 - [Day 13 - Creating an AMI from an EC2 Instance](./day-13/README.md)
 - [Day 14 - Stopping and Terminating an EC2 Instance](./day-14/README.md)
+- [Day 16 - Creating an IAM User](./day-16/README.md)
+- [Day 17 - Creating an IAM Group](./day-17/README.md)
 
 ## Prerequisites
 
