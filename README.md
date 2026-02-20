@@ -11,8 +11,8 @@ This repo follows the **AWS track** of [KodeKloud's 100 Days of Cloud](https://k
 | **Amazon EC2** | Key pairs, instances, AMIs, instance lifecycle (start, stop, terminate), stop/termination protection, instance type changes |
 | **Amazon VPC** | Subnets, security groups, Elastic IPs, network interfaces (ENI) |
 | **Amazon S3** | Object storage, bucket versioning |
-| **Amazon EBS** | Block storage volumes, attach/detach to EC2 instances |
-| **AWS IAM** | Users and groups, access management |
+| **Amazon EBS** | Block storage volumes, attach/detach to EC2 instances, snapshots |
+| **AWS IAM** | Users, groups, and policies for access management |
 
 ## Days
 
@@ -30,5 +30,7 @@ This repo follows the **AWS track** of [KodeKloud's 100 Days of Cloud](https://k
 - [Day 12 - Attach EBS Volume to EC2 Instance](./day-12/README.md)
 - [Day 13 - Creating an AMI from an EC2 Instance](./day-13/README.md)
 - [Day 14 - Stopping and Terminating an EC2 Instance](./day-14/README.md)
+- [Day 15 - Creating EBS Snapshots](./day-15/README.md)
 - [Day 16 - Creating an IAM User](./day-16/README.md)
 - [Day 17 - Creating an IAM Group](./day-17/README.md)
+- [Day 18 - Creating an IAM Policy](./day-18/README.md)
