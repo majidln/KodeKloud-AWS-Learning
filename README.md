@@ -35,3 +35,4 @@ This repo follows the **AWS track** of [KodeKloud's 100 Days of Cloud](https://k
 - [Day 17 - Creating an IAM Group](./day-17/README.md)
 - [Day 18 - Creating an IAM Policy](./day-18/README.md)
 - [Day 19 - Attaching an IAM Policy to a User](./day-19/README.md)
+- [Day 20 - Creating an IAM Role for EC2](./day-20/README.md)
