@@ -38,3 +38,4 @@ This repo follows the **AWS track** of [KodeKloud's 100 Days of Cloud](https://k
 - [Day 20 - Creating an IAM Role for EC2](./day-20/README.md)
 - [Day 21 - Launch EC2 Instance and Assign Elastic IP](./day-21/README.md)
 - [Day 22 - EC2 SSH: Key Pair, Security Group, and Root Access](./day-22/README.md)
+- [Day 23 - S3: Create a Bucket and Sync Objects Between Buckets](./day-23/README.md)
