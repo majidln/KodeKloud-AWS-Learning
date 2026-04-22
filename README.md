@@ -43,3 +43,4 @@ This repo follows the **AWS track** of [KodeKloud's 100 Days of Cloud](https://k
 - [Day 24 - Setting Up an Application Load Balancer for an EC2 Instance](./day-24/README.md)
 - [Day 25 - Setting Up an EC2 Instance and CloudWatch Alarm](./day-25/README.md)
 - [Day 26 - Configuring an EC2 Instance as a Web Server with Nginx](./day-26/README.md)
+- [Day 27 - Configuring a Public VPC with an EC2 Instance for Internet Access](./day-27/README.md)
