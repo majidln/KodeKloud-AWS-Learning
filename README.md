@@ -14,6 +14,7 @@ This repo follows the **AWS track** of [KodeKloud's 100 Days of Cloud](https://k
 | **Amazon EBS** | Block storage volumes, attach/detach to EC2 instances, snapshots |
 | **AWS IAM** | Users, groups, and policies for access management |
 | **Amazon CloudWatch** | Metric alarms (for example EC2 CPU), SNS notifications |
+| **Amazon ECR** | Private container image repositories; Docker build, tag, login, and push |
 
 ## Days
 
@@ -44,3 +45,4 @@ This repo follows the **AWS track** of [KodeKloud's 100 Days of Cloud](https://k
 - [Day 25 - Setting Up an EC2 Instance and CloudWatch Alarm](./day-25/README.md)
 - [Day 26 - Configuring an EC2 Instance as a Web Server with Nginx](./day-26/README.md)
 - [Day 27 - Configuring a Public VPC with an EC2 Instance for Internet Access](./day-27/README.md)
+- [Day 28 - Creating a Private ECR Repository](./day-28/README.md)
